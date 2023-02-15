@@ -3,7 +3,7 @@ public class Main {
 
         ListaEnlazada lista = new ListaEnlazada();
         lista.addNode3(
-                new Node("Alejandro")
+                new Node("Manuel")
         );
         lista.addNode3(
                 new Node("Miguel")
